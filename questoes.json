@@ -1,0 +1,332 @@
+[
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 1",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 1",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 2",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 2",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 3",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 3",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 4",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 4",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 5",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 5",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 6",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 6",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 7",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 7",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 8",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 8",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 9",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 9",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 10",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 10",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 11",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 11",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 12",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 12",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 13",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 13",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 14",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 14",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 15",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 15",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 16",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 16",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 17",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 17",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 18",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 18",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 19",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 19",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Pergunta de lógica múltipla escolha 20",
+        "alternativas": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "resposta_correta": "A",
+        "explicacao": "Explicação da resposta correta da pergunta 20",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 21",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 21",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 22",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 22",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 23",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 23",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 24",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 24",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 25",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 25",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 26",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 26",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 27",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 27",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 28",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 28",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 29",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 29",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Pergunta de lógica aberta 30",
+        "resposta_correta": "Resposta esperada",
+        "explicacao": "Explicação da resposta correta da pergunta 30",
+        "dificuldade": "difícil"
+    }
+]

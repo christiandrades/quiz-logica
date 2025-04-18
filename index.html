@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz de Lógica</title>
+    <style>
+        body { font-family: Arial; margin: 2em; }
+        .pergunta { font-weight: bold; }
+        .resposta, button { margin-top: 1em; display: block; }
+    </style>
+</head>
+<body>
+    <h1>Quiz de Lógica</h1>
+    <div id="quiz-container"></div>
+    <script>
+        let index = 0;
+        let questoes = [];
+
+        fetch('questoes.json')
+            .then(resp => resp.json())
+            .then(data => {
+                questoes = data;
+                mostrarQuestao();
+            });
+
+        function mostrarQuestao() {
+            const q = questoes[index];
+            let container = document.getElementById("quiz-container");
+            container.innerHTML = `<div class='pergunta'>${q.pergunta}</div>`;
+
+            if (q.tipo === "multipla_escolha") {
+                q.alternativas.forEach((alt, i) => {
+                    let btn = document.createElement("button");
+                    btn.textContent = alt;
+                    btn.onclick = () => verificarResposta(alt, q);
+                    container.appendChild(btn);
+                });
+            } else {
+                let input = document.createElement("input");
+                input.placeholder = "Digite sua resposta";
+                input.className = "resposta";
+                container.appendChild(input);
+
+                let btn = document.createElement("button");
+                btn.textContent = "Responder";
+                btn.onclick = () => verificarResposta(input.value, q);
+                container.appendChild(btn);
+            }
+        }
+
+        function verificarResposta(resp, q) {
+            let correta = resp.trim().toUpperCase() === q.resposta_correta.trim().toUpperCase();
+            alert(correta ? "✅ Correto!" : "❌ Errado! " + q.explicacao);
+            index++;
+            if (index < questoes.length) {
+                mostrarQuestao();
+            } else {
+                document.getElementById("quiz-container").innerHTML = "<h2>🏁 Fim do Quiz!</h2>";
+            }
+        }
+    </script>
+</body>
+</html>
