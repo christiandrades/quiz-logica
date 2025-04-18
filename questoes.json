@@ -1,0 +1,332 @@
+[
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 1, 4, 9, 16, ?",
+        "alternativas": [
+            "20",
+            "25",
+            "30",
+            "36"
+        ],
+        "resposta_correta": "25",
+        "explicacao": "São quadrados perfeitos: 1², 2², 3², 4², 5².",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se todos os bloops são razzies e todos os razzies são lazzies, então todos os bloops são necessariamente:",
+        "alternativas": [
+            "Lazzies",
+            "Razzies",
+            "Bloops",
+            "Nenhuma das anteriores"
+        ],
+        "resposta_correta": "Lazzies",
+        "explicacao": "Se A ⊂ B e B ⊂ C, então A ⊂ C.",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o valor lógico da proposição: 'Se 2 + 2 = 5, então Paris é na França'?",
+        "alternativas": [
+            "Verdadeira",
+            "Falsa",
+            "Indeterminada",
+            "Depende do contexto"
+        ],
+        "resposta_correta": "Verdadeira",
+        "explicacao": "Condicional com antecedente falso é sempre verdadeira.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se hoje é terça, que dia da semana será em 10 dias?",
+        "alternativas": [
+            "Quinta",
+            "Sábado",
+            "Domingo",
+            "Sexta"
+        ],
+        "resposta_correta": "Sexta",
+        "explicacao": "10 % 7 = 3 → terça + 3 dias = sexta.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 2, 6, 12, 20, ?",
+        "alternativas": [
+            "30",
+            "28",
+            "26",
+            "24"
+        ],
+        "resposta_correta": "30",
+        "explicacao": "Soma de n² + n: 1²+1=2, 2²+2=6, 3²+3=12...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 1, 4, 9, 16, ? (variação)",
+        "alternativas": [
+            "20",
+            "25",
+            "30",
+            "36"
+        ],
+        "resposta_correta": "25",
+        "explicacao": "São quadrados perfeitos: 1², 2², 3², 4², 5².",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se todos os bloops são razzies e todos os razzies são lazzies, então todos os bloops são necessariamente: (variação)",
+        "alternativas": [
+            "Lazzies",
+            "Razzies",
+            "Bloops",
+            "Nenhuma das anteriores"
+        ],
+        "resposta_correta": "Lazzies",
+        "explicacao": "Se A ⊂ B e B ⊂ C, então A ⊂ C.",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o valor lógico da proposição: 'Se 2 + 2 = 5, então Paris é na França'? (variação)",
+        "alternativas": [
+            "Verdadeira",
+            "Falsa",
+            "Indeterminada",
+            "Depende do contexto"
+        ],
+        "resposta_correta": "Verdadeira",
+        "explicacao": "Condicional com antecedente falso é sempre verdadeira.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se hoje é terça, que dia da semana será em 10 dias? (variação)",
+        "alternativas": [
+            "Quinta",
+            "Sábado",
+            "Domingo",
+            "Sexta"
+        ],
+        "resposta_correta": "Sexta",
+        "explicacao": "10 % 7 = 3 → terça + 3 dias = sexta.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 2, 6, 12, 20, ? (variação)",
+        "alternativas": [
+            "30",
+            "28",
+            "26",
+            "24"
+        ],
+        "resposta_correta": "30",
+        "explicacao": "Soma de n² + n: 1²+1=2, 2²+2=6, 3²+3=12...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 1, 4, 9, 16, ? (variação)",
+        "alternativas": [
+            "20",
+            "25",
+            "30",
+            "36"
+        ],
+        "resposta_correta": "25",
+        "explicacao": "São quadrados perfeitos: 1², 2², 3², 4², 5².",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se todos os bloops são razzies e todos os razzies são lazzies, então todos os bloops são necessariamente: (variação)",
+        "alternativas": [
+            "Lazzies",
+            "Razzies",
+            "Bloops",
+            "Nenhuma das anteriores"
+        ],
+        "resposta_correta": "Lazzies",
+        "explicacao": "Se A ⊂ B e B ⊂ C, então A ⊂ C.",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o valor lógico da proposição: 'Se 2 + 2 = 5, então Paris é na França'? (variação)",
+        "alternativas": [
+            "Verdadeira",
+            "Falsa",
+            "Indeterminada",
+            "Depende do contexto"
+        ],
+        "resposta_correta": "Verdadeira",
+        "explicacao": "Condicional com antecedente falso é sempre verdadeira.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se hoje é terça, que dia da semana será em 10 dias? (variação)",
+        "alternativas": [
+            "Quinta",
+            "Sábado",
+            "Domingo",
+            "Sexta"
+        ],
+        "resposta_correta": "Sexta",
+        "explicacao": "10 % 7 = 3 → terça + 3 dias = sexta.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 2, 6, 12, 20, ? (variação)",
+        "alternativas": [
+            "30",
+            "28",
+            "26",
+            "24"
+        ],
+        "resposta_correta": "30",
+        "explicacao": "Soma de n² + n: 1²+1=2, 2²+2=6, 3²+3=12...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 1, 4, 9, 16, ? (variação)",
+        "alternativas": [
+            "20",
+            "25",
+            "30",
+            "36"
+        ],
+        "resposta_correta": "25",
+        "explicacao": "São quadrados perfeitos: 1², 2², 3², 4², 5².",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se todos os bloops são razzies e todos os razzies são lazzies, então todos os bloops são necessariamente: (variação)",
+        "alternativas": [
+            "Lazzies",
+            "Razzies",
+            "Bloops",
+            "Nenhuma das anteriores"
+        ],
+        "resposta_correta": "Lazzies",
+        "explicacao": "Se A ⊂ B e B ⊂ C, então A ⊂ C.",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o valor lógico da proposição: 'Se 2 + 2 = 5, então Paris é na França'? (variação)",
+        "alternativas": [
+            "Verdadeira",
+            "Falsa",
+            "Indeterminada",
+            "Depende do contexto"
+        ],
+        "resposta_correta": "Verdadeira",
+        "explicacao": "Condicional com antecedente falso é sempre verdadeira.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Se hoje é terça, que dia da semana será em 10 dias? (variação)",
+        "alternativas": [
+            "Quinta",
+            "Sábado",
+            "Domingo",
+            "Sexta"
+        ],
+        "resposta_correta": "Sexta",
+        "explicacao": "10 % 7 = 3 → terça + 3 dias = sexta.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual número completa a sequência: 2, 6, 12, 20, ? (variação)",
+        "alternativas": [
+            "30",
+            "28",
+            "26",
+            "24"
+        ],
+        "resposta_correta": "30",
+        "explicacao": "Soma de n² + n: 1²+1=2, 2²+2=6, 3²+3=12...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Quantos segundos há em uma hora?",
+        "resposta_correta": "3600",
+        "explicacao": "1 hora = 60 minutos × 60 segundos = 3600.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Qual é o próximo número primo após 31?",
+        "resposta_correta": "37",
+        "explicacao": "Depois de 31, os primos são 37, 41, 43...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Quantos lados tem um icoságono?",
+        "resposta_correta": "20",
+        "explicacao": "Icoságono vem de 'icosa', que significa 20.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Se um trem leva 2 horas para percorrer 180 km, qual sua velocidade média em km/h?",
+        "resposta_correta": "90",
+        "explicacao": "180 km ÷ 2 h = 90 km/h.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Qual número falta: 2, 3, 5, 9, 17, ?",
+        "resposta_correta": "33",
+        "explicacao": "Dobro do anterior +1: 2→3, 3→5, 5→9, 9→17, 17→33",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Quantos segundos há em uma hora? (versão alternativa)",
+        "resposta_correta": "3600",
+        "explicacao": "1 hora = 60 minutos × 60 segundos = 3600.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Qual é o próximo número primo após 31? (versão alternativa)",
+        "resposta_correta": "37",
+        "explicacao": "Depois de 31, os primos são 37, 41, 43...",
+        "dificuldade": "média"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Quantos lados tem um icoságono? (versão alternativa)",
+        "resposta_correta": "20",
+        "explicacao": "Icoságono vem de 'icosa', que significa 20.",
+        "dificuldade": "difícil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Se um trem leva 2 horas para percorrer 180 km, qual sua velocidade média em km/h? (versão alternativa)",
+        "resposta_correta": "90",
+        "explicacao": "180 km ÷ 2 h = 90 km/h.",
+        "dificuldade": "fácil"
+    },
+    {
+        "tipo": "aberta",
+        "pergunta": "Qual número falta: 2, 3, 5, 9, 17, ? (versão alternativa)",
+        "resposta_correta": "33",
+        "explicacao": "Dobro do anterior +1: 2→3, 3→5, 5→9, 9→17, 17→33",
+        "dificuldade": "difícil"
+    }
+]
